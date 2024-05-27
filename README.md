@@ -1,28 +1,15 @@
 ## Bem-vindo(a) meu perfil!
 
- <div>
-   <a href="https://github.com/NatanMendes0">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanMendes0&layout=compact&langs_count=6&theme=codeSTACKr"/>
+Sou apaixonado por tecnologia e estou sempre em busca de novos desafios para aprimorar minhas habilidades. Possuo experiência em marketing e divulgações, além de ter concluído o curso técnico de nível médio em informática para Internet no IFSUL - Instituto Federal Sul-rio-grandense.
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
- </div>
- 
- <br>
- 
-  ### Redes Sociais!
+Durante minha formação, adquiri conhecimentos sólidos em linguagens de programação como HTML5, CSS, Javascript, PHP, C e Node.js, bem como em bancos de dados como MySQL, PostgreSQL e OracleDB.
+
+Sou flexível e capaz de trabalhar tanto de forma colaborativa quanto de forma independente, sempre buscando a máxima eficiência em qualquer situação. Estou determinado a construir uma carreira de sucesso na área de tecnologia e estou aberto a oportunidades que me permitam crescer e contribuir para projetos desafiadores.
+
+### Redes Sociais!
  
 <div> 
   <a href="https://instagram.com/xnatx___/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:natancmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natancruzmendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- <!--![Snake animation](https://github.com/NatanMendes0/NatanMendes0/blob/output/github-contribution-grid-snake.svg)-->
-
 </div>
