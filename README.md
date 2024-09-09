@@ -12,10 +12,9 @@ Sou flexível e capaz de trabalhar tanto de forma colaborativa quanto de forma i
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
 
 # 📊 Estatisticas do Github:
-![](https://github-readme-stats.vercel.app/api?username=NatanMendes0&show_icons=true&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=@NatanMendes0&theme=dark&hide_border=false)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NatanMendes0&show_icons=true&theme=dark) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=@NatanMendes0&theme=dark&hide_border=false) |
+| --- | --- |
 
----
 
 [![](https://visitcount.itsvg.in/api?id=@NatanMendes0&icon=3&color=12)](https://visitcount.itsvg.in)
 
