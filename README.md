@@ -1,4 +1,4 @@
-👨🏻‍💻 About Me:
+# 👨🏻‍💻 About Me:
 I'm passionate about technology and always looking for new challenges to enhance my skills. Thanks to my technical education, I've gained experience in web development, task automation, UX/UI, and databases. Currently, I'm pursuing a degree in Systems Analysis and Development at the same institution where I completed my technical education, IFSUL - Instituto Federal Sul-rio-grandense.
 
 During my studies, I've acquired solid knowledge in programming languages such as HTML5, CSS, Javascript, PHP, C, and Node.js, as well as in databases like MySQL, PostgreSQL, OracleDB, and MongoDB.
